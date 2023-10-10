@@ -1,0 +1,6 @@
+.privacy-container{
+  max-width: 882px;
+  -webkit-box-shadow: 0 10px 35px 0 rgba(154, 161, 171, 0.1);
+  box-shadow: 0 10px 35px 0 rgba(154, 161, 171, 0.1);
+border-radius: 7px;
+}
